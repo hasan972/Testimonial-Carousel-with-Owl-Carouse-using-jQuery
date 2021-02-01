@@ -1,1 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Open+Sans&display=swap');
+
+body{
+  margin: 0;
+  font-family: 'Open Sans', sans-serfi;
+  font-size: 14px;
+  font-weight: 400px;
+  line-height: 28px;
+  -webkit-box-sizing: border-box; <!--bz+tab-->
+  box-sizing: border-box;
+}
+h2, h3{
+  font-family: 'Arvo', serif;
+  font-weight: 700px;
+}
+a{
+  text-decoration: none;
+}
+#testimonial{
+  background: #B91C27;
+}
+.container{
+  max-width: 1140px;
+  margin: auto;
+}
+.section-padding{
+  padding: 60px 0;
+}
