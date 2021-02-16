@@ -8,3 +8,6 @@
  2.https://fonts.google.com/ we using this link to use so many font and make our project beautiful and the Clint choice
 
  3.https://owlcarousel2.github.io/OwlCarousel2/ this link help us to using jQuery plugin and make the project more beautiful
+ 
+ # Live Link
+ https://hasan972.github.io/Testimonial-Carousel-with-Owl-Carouse-using-jQuery/
